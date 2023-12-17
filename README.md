@@ -1,0 +1,2 @@
+# SeleniumCSharpNetCore
+Practice project
